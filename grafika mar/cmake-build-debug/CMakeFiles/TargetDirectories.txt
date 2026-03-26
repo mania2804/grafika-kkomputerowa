@@ -1,0 +1,3 @@
+C:/Users/student/Desktop/grafika mar/cmake-build-debug/CMakeFiles/grafika_mar.dir
+C:/Users/student/Desktop/grafika mar/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/Desktop/grafika mar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
